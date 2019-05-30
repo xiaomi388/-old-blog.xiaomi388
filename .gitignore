@@ -3,6 +3,8 @@
 
 # Mac files
 .DS_Store
+*.DS_Store
+*.swp
 
 # Byte-compiled / optimized / DLL files
 *.manifest
@@ -21,3 +23,6 @@ _development_tool
 Gemfile.lock
 *.gem
 .DS_Store
+
+nohup.out
+.*.md

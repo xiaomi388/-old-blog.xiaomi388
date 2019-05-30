@@ -3,12 +3,19 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hi, I am Eden, a backend engineer and a professional snooker amateur(XD).
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Should you know more about me, please read my [resume](/assets/pdf/resume-en.pdf) (under construction 🚧).
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+我是Eden，一名后端研发工程师以及一名职业的斯诺克爱好者(XD)。
+
+如果需要了解更多关于我的信息，请阅读我的[简历](/assets/pdf/resume-cn.pdf) (建设中 🚧)。
+
+
+
+
