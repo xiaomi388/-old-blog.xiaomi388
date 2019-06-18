@@ -25,6 +25,7 @@ Here is a tag list. In order to avoid opening tags casually, I must use tags bel
 | Git        |                               |        |
 | Thought    | Used to express my thoughts   |        |
 | About      | Used by the about page        |        |
+| Network    |                               |        |
 
 # Writing Tips
 
