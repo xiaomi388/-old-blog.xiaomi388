@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-title: "Eden Chan"
+title: "Eden's Blog"
 url: "https://blog.xiaomi388.cn"
 port: 4000
 host: '0.0.0.0'
@@ -8,7 +8,7 @@ host: '0.0.0.0'
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Eden Chan
+  title: Eden's Blog
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -16,7 +16,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>所以动心忍性, 增益其所不能</p>
+     <p>愿我会揸火箭</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

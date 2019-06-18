@@ -26,3 +26,5 @@ Gemfile.lock
 
 nohup.out
 .*.md
+
+._*.jpeg

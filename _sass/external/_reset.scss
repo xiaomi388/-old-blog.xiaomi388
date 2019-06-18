@@ -234,6 +234,15 @@ samp {
   font-size: 1em;
 }
 
+code.highlighter-rouge {
+    background-color: #263238;
+    color: #eff;
+    font-size: 80%;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+    border-radius: 3px;
+    padding: 1px 2px;
+}
+
 /* Forms
    ========================================================================== */
 
