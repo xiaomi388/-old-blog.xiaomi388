@@ -21,6 +21,7 @@ Here is a tag list. In order to avoid opening tags casually, I must use tags bel
 | LeetCode   | Used to keep LeetCode records |        |
 | Traveling  | Used to record my traveling   |        |
 | Unix/Linux |                               |        |
+| Utility    |                               |        |
 | Go         |                               |        |
 | Git        |                               |        |
 | Thought    | Used to express my thoughts   |        |
